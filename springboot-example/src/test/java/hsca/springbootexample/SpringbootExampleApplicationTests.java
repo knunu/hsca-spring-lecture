@@ -1,10 +1,10 @@
-package hsca.springlecture;
+package hsca.springbootexample;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class HscaSpringLectureApplicationTests {
+class SpringbootExampleApplicationTests {
 
 	@Test
 	void contextLoads() {
