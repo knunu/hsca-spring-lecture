@@ -1,4 +1,4 @@
-package hsca.springbootexample;
+package com.hsca;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
